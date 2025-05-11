@@ -1,7 +1,7 @@
 # To-Do List App (Tkinter)
 
 A simple **To-Do List app** built using **Python** and **Tkinter**.
-This app allows you to add, delete, and save tasks in a local file. It features a user-friendly interface with a top bar and a dock for easy navigation. the app is designed to be simple and efficient, making it easy to manage your tasks.it is a great starting point for anyone looking to learn about GUI development in Python.
+This app allows you to add, delete, and save tasks in a local file. It features a user-friendly interface with a top bar and a dock for easy navigation. the app is designed to be simple and efficient, making it easy to manage your tasks.it is a great starting point for anyone looking to learn about GUI development in Python.below is a brief overview of the app's features and how to set it up.we will also include a screenshot of the app in action.
 
 ## 📝 Features:
 - **Add tasks** to your to-do list.
