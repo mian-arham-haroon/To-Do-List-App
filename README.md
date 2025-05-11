@@ -9,7 +9,7 @@ This app allows you to add, delete, and save tasks in a local file. It features 
 - **Delete tasks** from the list.
 
 ## 🖼 App Screenshot:
-![App Screenshot](screenshot.png) *(You can replace this with an actual screenshot of your app)*
+![App Screenshot](screenshot.png) *its a screenshot of the app in action*
 
 ## 🛠️ Requirements:
 - **Python 3.x** (any version that supports Tkinter).
