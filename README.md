@@ -20,7 +20,7 @@ This app allows you to add, delete, and save tasks in a local file. It features 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/mian-arham-haroon/to-do-list-app.git
    cd to-do-list-app
    python todo_list.py
 
